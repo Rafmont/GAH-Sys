@@ -1,0 +1,19 @@
+#printIcon {
+  float: right;
+  margin-right: 5%;
+  margin-bottom: 1%;
+}
+
+#faturaTitle {
+  display: inline-block;
+  margin-left: 45%;
+}
+
+#titleModal {
+  display: inline-block;
+
+}
+
+#printIconModal {
+  margin-left: 63%;
+}

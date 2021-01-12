@@ -1,0 +1,29 @@
+/*
+  CORES:
+  background content: #e5e5e5
+  background blocks: #feffff
+  background header navbar e navbar hover: #f2f2f2
+  navbar border: #cccccc
+  Background alternativo: #b6f0e7
+*/
+
+body {
+  background: #e5e5e5;
+  font-family: "Poppins", sans-serif;
+}
+
+.global-container {
+  margin-left: 450px;
+  margin-right: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 2px solid #cccccc;
+  border-radius: 10px;
+  background-color: #feffff;
+  padding: 20px;
+}
+
+.add-side {
+  display: inline-block;
+  float: right;
+}

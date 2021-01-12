@@ -1,0 +1,12 @@
+.align-center {
+  text-align: center;
+}
+
+#tabela tr:hover {
+  background-color: #f2f2f2;
+  transition: 3 #f2f2f2;
+}
+
+.modal-descricao {
+  text-align: justify;
+}
